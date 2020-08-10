@@ -22,4 +22,6 @@
 * Waffenhändler
 * Ladenbesitzer (kurz)
 9. Heimatplanet Erde (Dimension C-137)
-
+*Morty: "Mom wollte, dass ich dabei bin, um sicher zu gehen, dass du nicht stirbst.*
+*"Jerry: "Sag deiner Mutter, sie muss sich um mich keine Sorgen machen.*
+*"Rick: "Erzähl deinem Kind keine Märchen, Jerry."* 
