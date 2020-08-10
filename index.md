@@ -1,1 +1,3 @@
 # Rick Sanchez
+## Rick Sanchez ist der Hauptprotagonist und einer der namensgebenden Charaktere von Rick and Morty. Er ist ein genialer Wissenschaftler, dessen Alkoholismus und rücksichtloses, nihilistisches Verhalten immer wieder Grund zur Sorge für die Familie seiner Tochter sind und das Wohlergehen seines Enkels Morty Smith gefährden.
+
